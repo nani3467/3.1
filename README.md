@@ -1,2 +1,3 @@
-"#this is 3.1" 
-"# changes in branch mits" 
+<<<<<<< HEAD
+# this is 3.1
+" # new changes in echo" 
